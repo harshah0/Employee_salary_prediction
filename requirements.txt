@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+pandas
+plotly
+joblib
+streamlit-option-menu
